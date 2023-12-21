@@ -1,12 +1,11 @@
 {
-  "name": "@rspress/plugin-translate",
+  "name": "rspress-plugin-translate",
   "version": "0.0.1",
   "description": "A plugin for rspress to integrate translate",
-  "bugs": "https://github.com/web-infra-dev/rspress/issues",
+  "bugs": "https://github.com/byteHulk/rspress-plugin-translate/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/web-infra-dev/rspress",
-    "directory": "packages/plugin-translate"
+    "url": "https://github.com/byteHulk/rspress-plugin-translate"
   },
   "license": "MIT",
   "jsnext:source": "./src/index.ts",
